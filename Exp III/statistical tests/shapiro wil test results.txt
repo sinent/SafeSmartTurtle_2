@@ -1,0 +1,62 @@
+[1] "count//new//grid 10//fault_detection_test_nums.txt"
+
+	Shapiro-Wilk normality test
+
+data:  data
+W = 0.79368, p-value = 1.591e-10 (0.00)
+
+[1] "Done!"
+[1] "count//new//grid 20//fault_detection_test_nums.txt"
+
+	Shapiro-Wilk normality test
+
+data:  data
+W = 0.78186, p-value = 7.126e-11
+
+[1] "Done!"
+[1] "count//old//grid 10//fault_detection_test_nums.txt"
+
+	Shapiro-Wilk normality test
+
+data:  data
+W = 0.71849, p-value = 1.487e-12 (0.00)
+
+[1] "Done!"
+[1] "count//old//grid 20//fault_detection_test_nums.txt"
+
+	Shapiro-Wilk normality test
+
+data:  data
+W = 0.73836, p-value = 4.662e-12
+
+[1] "Done!"
+[1] "intersection//new//grid 10//fault_detection_test_nums.txt"
+
+	Shapiro-Wilk normality test
+
+data:  data
+W = 0.80227, p-value = 2.909e-10 (0.00)
+
+[1] "Done!"
+[1] "intersection//new//grid 20//fault_detection_test_nums.txt"
+
+	Shapiro-Wilk normality test
+
+data:  data
+W = 0.83362, p-value = 3.081e-09
+
+[1] "Done!"
+[1] "intersection//old//grid 10//fault_detection_test_nums.txt"
+
+	Shapiro-Wilk normality test
+
+data:  data
+W = 0.82108, p-value = 1.161e-09
+
+[1] "Done!"
+[1] "intersection//old//grid 20//fault_detection_test_nums.txt"
+
+	Shapiro-Wilk normality test
+
+data:  data
+W = 0.8116, p-value = 5.713e-10
